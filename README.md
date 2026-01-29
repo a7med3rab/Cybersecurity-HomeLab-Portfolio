@@ -11,7 +11,6 @@ This portfolio is intended for entry-level SOC Analyst and Security Compliance /
 - **SOC : Incident Response** – Incident tickets, phishing response, traffic analysis (Wireshark/tcpdump)
 - **Medium-signal** – Scenario-based analysis, frameworks, exercises
 - **Risk + Governance Basics** – IAM, Linux permissions, SQL, PASTA, asset inventory
-
 - Each folder contains completed exercises with README files explaining context, objectives, and outcomes.
 
 ## Skills Demonstrated
