@@ -1,4 +1,4 @@
-# cybersecurity-homelab-portfolio
+# Cybersecurity Homelab Portfolio
 
 This repository showcases hands-on cybersecurity work completed as part of my Google Cybersecurity Analyst training.  
 It focuses on security operations, incident response, risk assessment, and compliance fundamentals.  
