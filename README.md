@@ -12,6 +12,8 @@ This portfolio is intended for entry-level SOC Analyst and Security Compliance /
 - **Medium-signal** – Scenario-based analysis, frameworks, exercises
 - **Risk + Governance Basics** – IAM, Linux permissions, SQL, PASTA, asset inventory
 
+- Each folder contains completed exercises with README files explaining context, objectives, and outcomes.
+
 ## Skills Demonstrated
 - Incident Response & SOC workflows
 - Network Traffic Analysis (Wireshark, tcpdump)
